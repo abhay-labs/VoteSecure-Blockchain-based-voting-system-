@@ -17,7 +17,6 @@ Complete Web3 Dapp App, Build blockchain voting app, Web3 Project | Blockchain V
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
 ```https://code.visualstudio.com/download
-```
 
 #### Install Vs Code Editor
 
