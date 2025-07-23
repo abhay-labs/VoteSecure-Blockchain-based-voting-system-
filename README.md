@@ -16,12 +16,7 @@ Complete Web3 Dapp App, Build blockchain voting app, Web3 Project | Blockchain V
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/ethereum-decentralized-voting-project-source-code)
-
-
 ```https://code.visualstudio.com/download
-  WATCH: Setup & Demo Of Project
 ```
 
 #### Install Vs Code Editor
