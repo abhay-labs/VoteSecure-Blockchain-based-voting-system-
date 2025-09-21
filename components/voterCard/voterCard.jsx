@@ -27,6 +27,8 @@ const voterCard = ({voterArray}) => {
         </div>
       ))}
     </div>
+
+    
   )
 };
 
